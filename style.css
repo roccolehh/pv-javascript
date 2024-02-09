@@ -1,12 +1,12 @@
 :root {
-    --cor-de-fundo: #1E1E1E;
+    --cor-de-fundo: #fda3e7;
     --rosa: #f10e6d;
-    --branco: #FFFFFF;
+    --rosa-escuro: #9c0663;
     --botao-ativo: #3A375E;
     --botao-inativo: rgba(58,55,94,0.5);
 }
 
 body {
     background-color: var(--cor-de-fundo);
-    color: var(--branco);
+    color: var(--rosa-escuro);
 }
