@@ -3,7 +3,7 @@
 
 
 :root {
-    --cor-de-fundo: #fda3e7;
+    --cor-de-fundo: #fdcbf1;
     --rosa: #f10e6d;
     --rosa-escuro: #9c0663;
     --botao-ativo: #3A375E;
@@ -13,4 +13,5 @@
 body {
     background-color: var(--cor-de-fundo);
     color: var(--rosa-escuro);
+    font-family: 'Cormorant';
 }
