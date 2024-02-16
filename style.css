@@ -15,3 +15,12 @@ body {
     color: var(--rosa-escuro);
     font-family: 'Cormorant';
 }
+
+.botao{
+    font-family: 'Cormorant';
+    background-color: var(--botao-inativo);
+    color: var(--rosa-escuro);
+    font-size: 18px;
+    padding: 1em;
+}
+}
